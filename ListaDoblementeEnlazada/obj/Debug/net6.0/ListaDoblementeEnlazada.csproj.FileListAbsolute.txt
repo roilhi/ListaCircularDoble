@@ -1,0 +1,15 @@
+C:\Users\roilh\Documents\ListaDoblementeEnlazada\ListaDoblementeEnlazada\bin\Debug\net6.0\ListaDoblementeEnlazada.exe
+C:\Users\roilh\Documents\ListaDoblementeEnlazada\ListaDoblementeEnlazada\bin\Debug\net6.0\ListaDoblementeEnlazada.deps.json
+C:\Users\roilh\Documents\ListaDoblementeEnlazada\ListaDoblementeEnlazada\bin\Debug\net6.0\ListaDoblementeEnlazada.runtimeconfig.json
+C:\Users\roilh\Documents\ListaDoblementeEnlazada\ListaDoblementeEnlazada\bin\Debug\net6.0\ListaDoblementeEnlazada.dll
+C:\Users\roilh\Documents\ListaDoblementeEnlazada\ListaDoblementeEnlazada\bin\Debug\net6.0\ref\ListaDoblementeEnlazada.dll
+C:\Users\roilh\Documents\ListaDoblementeEnlazada\ListaDoblementeEnlazada\bin\Debug\net6.0\ListaDoblementeEnlazada.pdb
+C:\Users\roilh\Documents\ListaDoblementeEnlazada\ListaDoblementeEnlazada\obj\Debug\net6.0\ListaDoblementeEnlazada.csproj.AssemblyReference.cache
+C:\Users\roilh\Documents\ListaDoblementeEnlazada\ListaDoblementeEnlazada\obj\Debug\net6.0\ListaDoblementeEnlazada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roilh\Documents\ListaDoblementeEnlazada\ListaDoblementeEnlazada\obj\Debug\net6.0\ListaDoblementeEnlazada.AssemblyInfoInputs.cache
+C:\Users\roilh\Documents\ListaDoblementeEnlazada\ListaDoblementeEnlazada\obj\Debug\net6.0\ListaDoblementeEnlazada.AssemblyInfo.cs
+C:\Users\roilh\Documents\ListaDoblementeEnlazada\ListaDoblementeEnlazada\obj\Debug\net6.0\ListaDoblementeEnlazada.csproj.CoreCompileInputs.cache
+C:\Users\roilh\Documents\ListaDoblementeEnlazada\ListaDoblementeEnlazada\obj\Debug\net6.0\ListaDoblementeEnlazada.dll
+C:\Users\roilh\Documents\ListaDoblementeEnlazada\ListaDoblementeEnlazada\obj\Debug\net6.0\ref\ListaDoblementeEnlazada.dll
+C:\Users\roilh\Documents\ListaDoblementeEnlazada\ListaDoblementeEnlazada\obj\Debug\net6.0\ListaDoblementeEnlazada.pdb
+C:\Users\roilh\Documents\ListaDoblementeEnlazada\ListaDoblementeEnlazada\obj\Debug\net6.0\ListaDoblementeEnlazada.genruntimeconfig.cache
